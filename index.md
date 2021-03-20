@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
-
-{% include 01-name.md %}
-
+# This is what my page will look like
+## H2 header
+*what do you think?
+**ABOUT THIS**
